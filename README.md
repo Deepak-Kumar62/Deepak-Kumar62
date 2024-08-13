@@ -9,7 +9,11 @@ I'm a newly learned MERN Stack developer, currently enhancing my skills by worki
 - 💡 Passionate about creating dynamic and responsive web applications.
 - 💻 Proficient in **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **TailwindCSS**, **React**, and **Git**.
 - 🎯 Aspiring to become a skilled full-stack developer.
-- 📫 Let's connect: [Email](mailto:ydeepak6299@gmail.com) | [LinkedIn](https://www.linkedin.com/in/deepakkumar629/)
+- 📫 Let's connect: 
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakkumar629/)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Deepak_Kumar6/)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ydeepak6299@gmail.com)
+  
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 
 ## 🛠️ My Skills
