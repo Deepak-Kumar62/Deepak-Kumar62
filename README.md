@@ -26,8 +26,11 @@ I'm a newly learned MERN Stack developer, currently enhancing my skills by worki
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepak-Kumar62&show_icons=true&hide_title=true)
 
 ## 📊 Top Languages
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNldm53cjhrOG52bDVvNjQyYWgwYWJmMHltODk0cTBocWJkYXRvZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Kumar62&layout=compact&langs_count=8)
+
+
 
 <hr/>
 
