@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Kumar)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Deepak-Kumar62&color=blue)
+
 Hello! I’m third-year engineering student specializing in full-stack development. My journey in software engineering has led me to complete the MERN stack, and I’m currently focused on applying and expanding my skills through practical projects. Additionally, I am enhancing my problem-solving abilities by tackling data structures and algorithms challenges.
 
 ## 🚀 About Me
@@ -31,6 +33,7 @@ Hello! I’m third-year engineering student specializing in full-stack developme
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepak-Kumar62&show_icons=true&hide_title=true)
+
 
 ## 📊 Top Languages
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNldm53cjhrOG52bDVvNjQyYWgwYWJmMHltODk0cTBocWJkYXRvZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
