@@ -17,7 +17,7 @@ Hello! I’m third-year engineering student specializing in full-stack developme
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Deepak_Kumar6/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ydeepak6299@gmail.com)
   
-- 🌐 [Portfolio]([https://your-portfolio-link.com](https://deepak-kumar-portfolio-1.netlify.app/))
+- 🌐 [Portfolio](https://deepak-kumar-portfolio-1.netlify.app/)
 
 ## 🛠️ My Skills
 
