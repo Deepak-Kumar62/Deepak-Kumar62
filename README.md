@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepak-Kumar62&color=blue)
 
-Hello! I’m third-year engineering student specializing in full-stack development. My journey in software engineering has led me to complete the MERN stack, and I’m currently focused on applying and expanding my skills through practical projects. Additionally, I am enhancing my problem-solving abilities by tackling data structures and algorithms challenges.
+Hello! I’m final-year engineering student specializing in full-stack development. My journey in software engineering has led me to complete the MERN stack, and I’m currently focused on applying and expanding my skills through practical projects. Additionally, I am enhancing my problem-solving abilities by tackling data structures and algorithms challenges.
 
 ## 🚀 About Me
 
